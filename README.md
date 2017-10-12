@@ -9,4 +9,4 @@ a very simple banner grabber.. write in ruby
 
 
 
-![image](https://i.imgur.com/jKtiukQ.pn)
+![image](https://i.imgur.com/jKtiukQ.png)
