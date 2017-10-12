@@ -7,4 +7,4 @@ a very simple banner grabber.. write in ruby
 # require 'colorize'     ==> For beautiful colors.
 # require 'logoris'      ==> Log to the right standard stream.
 
-![alt text](https://imgur.com/jKtiukQ)
+![img](https://imgur.com/jKtiukQ)
